@@ -1,10 +1,10 @@
-# Jarvis Desktop Voice Assistant🔥
+# Jarvis Desktop Voice Assistant 🔥
 
 <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
 
 **Have you ever wondered how cool it would be to have your own assistant? Imagine how easier it would be doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command, opening different browsers in just a voice command.**
 
-**This project is simple desktop voice assistant built with python named as “Jarvis Desktop Voice Assistant”. This project is fully completed and error free. It was compiled in VS Code Editor.**
+**This project is a simple desktop voice assistant built with Python named “Jarvis Desktop Voice Assistant”. This project is fully completed and error-free. It was compiled in VS Code Editor.**
 
 **🔸 Let's be honest, it's not as intelligent as in the movie, but it can do a lot of cool things and automate your daily tasks you do on your personal computers/laptops.**
 
@@ -23,8 +23,8 @@ It can do a lot of cool things, some of them being:
 - Tells about any person (via Wikipedia)
 - Can search anything on Google
 - Plays music
-- Take important note in text file
-- Can take screenshot and save it with custom filename
+- Take important notes in a text file
+- Can take screenshot and save it with a custom filename
 - Can tell jokes
 
 ## Requirements
@@ -39,7 +39,7 @@ Python 3.6+
 2. **Clone The Repository**
    - Clone the forked repository to your local machine:
      ```bash
-     git clone <URL>
+     git clone https://github.com/keshavraopilli749/Jarvis-Desktop-Voice-Assistant.git
      cd Jarvis-Desktop-Voice-Assistant
      ```
 
@@ -57,21 +57,23 @@ Python 3.6+
        ```bash
        source .venv/bin/activate
        ```
-   - This activates the virtual environment and should look like `(venv) directory/of/your/project>`
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
+   - Install all the requirements given in `requirements.txt`:
+     ```bash
+     pip install -r requirements.txt
+     ```
 
 5. **Install PyAudio**  
-   - Follow the instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
+   - Follow the instructions provided here: [PyAudio Windows Install Fix](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)
 
 6. **Run the Assistant**
-  - Run the main script:
-    ```bash
-    python jarvis.py
-    ```
-  - Now Enjoy with your own assistant !!!!
+   - Run the main script:
+     ```bash
+     python jarvis.py
+     ```
+   - Now enjoy your own assistant!
 
 7. **Deactivate the Virtual Environment**
    - After you're done, deactivate the virtual environment:
@@ -85,11 +87,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Kishan Kumar Rai**
+👤 **Keshav Rao**
 
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
+- GitHub: [@keshavraopilli749](https://github.com/keshavraopilli749)
+- LinkedIn: [@keshav-rao-pilli](https://www.linkedin.com/in/keshav-rao-pilli-a18101337)
 
 ## 📌Show your support
 
@@ -97,4 +98,4 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📌License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is open-sourced under the MIT License.
